@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Tools">
+            <file name="com-melike-CTSSettings.instance">
+                <!--CTSSettings.CTSSettings-->
+                <attr bundlevalue="CTSSettings.Bundle#CTL_CTSSettings" name="displayName"/>
+                <attr
+                    methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="CTSSettings.CTSSettings"/>
+                <attr name="iconBase" stringvalue="CTSSettings/settings16.png"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Toolbars">
+        <folder name="Build">
+            <file name="com-melike-CTSSettings.shadow">
+                <!--CTSSettings.CTSSettings-->
+                <attr name="originalFile" stringvalue="Actions/Tools/com-melike-CTSSettings.instance"/>
+                <attr intvalue="-20" name="position"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

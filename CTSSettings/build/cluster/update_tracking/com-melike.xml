@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.melike">
+    <module_version install_time="1496345730106" last="true" origin="installer" specification_version="1.0">
+        <file crc="347955882" name="config/Modules/com-melike.xml"/>
+        <file crc="4218232519" name="modules/com-melike.jar"/>
+        <file crc="1602372905" name="modules/ext/cmu_time_awb.jar"/>
+        <file crc="3917721368" name="modules/ext/cmu_us_kal.jar"/>
+        <file crc="1231803607" name="modules/ext/cmudict04.jar"/>
+        <file crc="2070499618" name="modules/ext/cmulex.jar"/>
+        <file crc="4078286308" name="modules/ext/cmutimelex.jar"/>
+        <file crc="2497459101" name="modules/ext/en_us.jar"/>
+        <file crc="1791477569" name="modules/ext/freetts-jsapi10.jar"/>
+        <file crc="2723274710" name="modules/ext/freetts.jar"/>
+        <file crc="285304863" name="modules/ext/mbrola.jar"/>
+    </module_version>
+</module>
