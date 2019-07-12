@@ -1,4 +1,5 @@
 # CTS (Comment To Speech) &emsp;/&emsp; Bachelor's Degree Project
+Technologies used; Java 8, JavaParser, FreeTTS, MBROLA and NetBeans IDE
 
 - **CTS** : The main plug-in of CTS
 - **CTSSettings** : Second plug-in to change properties of TTS (Text To Speech) 
@@ -9,4 +10,3 @@ IDEs do not always comfort the needs of a developer. They offer libraries to let
 
 ##### Please, sent me an e-mail for the full report.
 
-Technologies used; Java 8, JavaParser, FreeTTS, MBROLA and NetBeans IDE
