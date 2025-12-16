@@ -1,4 +1,7 @@
-# CTS (Comment To Speech) &emsp;/&emsp; Bachelor's Degree Project
+# Bachelor's Thesis Repository
+This repository contains the complete source code, documentation, and data related to my Bachelor's Thesis.
+
+## CTS (Comment To Speech)
 Technologies used; Java 8, JavaParser, FreeTTS, MBROLA and NetBeans IDE
 
 - **CTS** : The main plug-in of CTS
